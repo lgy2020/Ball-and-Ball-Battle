@@ -37,7 +37,7 @@ class Settings {
             <img width="30" src="https://app1506.acapp.acwing.com.cn/static/image/menu/background.jpg">
             <br>
             <div>
-                AcWing一键登录
+                GO!
             </div>
         </div>
     </div>
@@ -75,7 +75,7 @@ class Settings {
             <img width="30" src="https://app1506.acapp.acwing.com.cn/static/image/menu/background.jpg">
             <br>
             <div>
-                AcWing一键登录
+                GO!
             </div>
         </div>
     </div>
