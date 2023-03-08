@@ -34,7 +34,7 @@ class Settings {
         </div>
         <br>
         <div class="ac-game-settings-acwing">
-            <img width="30" src="https://app1506.acapp.acwing.com.cn/static/image/menu/background.jpg">
+            <img width="30" src="https://app1506.acapp.acwing.com.cn/static/image/menu/a.jpg">
             <br>
             <div>
                 GO!
@@ -72,7 +72,7 @@ class Settings {
         </div>
         <br>
         <div class="ac-game-settings-acwing">
-            <img width="30" src="https://app1506.acapp.acwing.com.cn/static/image/menu/background.jpg">
+            <img width="30" src="https://app1506.acapp.acwing.com.cn/static/image/menu/a.jpg">
             <br>
             <div>
                 GO!

@@ -25,7 +25,7 @@ def register(request):
     user = User(username=username)
     user.set_password(password)
     user.save()
-    Player.objects.create(user=user, photo="https://app1506.acapp.acwing.com.cn/static/image/menu/background.jpg")
+    Player.objects.create(user=user, photo="https://app1506.acapp.acwing.com.cn/static/image/menu/a.jpg")
     login(request, user)
     return JsonResponse({
         'result': "success",
